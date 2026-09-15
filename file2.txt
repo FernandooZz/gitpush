@@ -1,1 +1,1 @@
-practica de git pull
+practica de git pull, usando la v2
